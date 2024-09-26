@@ -12,8 +12,6 @@ class A11Modal extends HTMLElement{
 <h2 id="modalTitle">
 <slot name="title"></slot></h2>
           <slot></slot>
-                    <button id="closeButton">Close</button>
-
         </div>
         
         </div>
